@@ -10,7 +10,7 @@
 - Download improved resume
 
 ## 🌐 Live Demo
-https://your-app-link
+https://resume-ai-fr3jhjb3dnrup9vqkjfbpt.streamlit.app/
 
 ## 🛠️ Tech Stack
 - Python
